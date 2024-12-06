@@ -1,0 +1,806 @@
+{
+    "query": "smartphones",
+    "scrape_date": "2024-12-06 18:39:46",
+    "results": [
+        {
+            "title": "Samsung Galaxy S24 Ultra Cell Phone, 256GB AI Smartphone, Unlocked Android, 200MP, 100x Zoom Cameras, Fast Processor, Long Battery Life, Edge-to-Edge Display, S Pen, US Version, 2024, Titanium Black",
+            "price": null,
+            "total_reviews": "3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Play | 2024 | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue",
+            "price": null,
+            "total_reviews": "1,589",
+            "image_url": "https://m.media-amazon.com/images/I/61xk4XNRktL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Power 5G | 2024 | Unlocked | Made for US 8/128GB | 50MP Camera | Midnight Blue",
+            "price": null,
+            "total_reviews": "1,074",
+            "image_url": "https://m.media-amazon.com/images/I/61c9OZyq2yL._AC_UY218_.jpg",
+            "rating": "4.1 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A15 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Expandable Storage, Knox Security, Super Fast Charging, US Version, 2024, Blue Black",
+            "price": null,
+            "total_reviews": "921",
+            "image_url": "https://m.media-amazon.com/images/I/41vU1u8DZXL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "C24 | 2024 | All-Day Battery | GSM Unlocked | 5.5” Display | 2/16GB | 2300mAh | US Version | US Warranty | White",
+            "price": "$39.99",
+            "total_reviews": "5",
+            "image_url": "https://m.media-amazon.com/images/I/515cfOcCNyL._AC_UY218_.jpg",
+            "rating": "2.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola razr | 2023 | Unlocked | Made for US 8/128 | 32MP Camera | Sage Green, 73.95 x 170.82 x 7.35mm",
+            "price": null,
+            "total_reviews": "651",
+            "image_url": "https://m.media-amazon.com/images/I/61y8ZqM0vvL._AC_UY218_.jpg",
+            "rating": "3.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Moto G Stylus 5G | 2023 | Unlocked | Made for US 6/256GB | 50 MPCamera | Cosmic Black, 162.83x73.77x9.29",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61O66kJiiGL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "PG65 | 2024 | All-Day Battery | GSM Unlocked | 6.5” Display | 4/64GB | 3000mAh | US Version | US Warranty | Black",
+            "price": "$59.99",
+            "total_reviews": null,
+            "image_url": "https://m.media-amazon.com/images/I/71tSG64ezSL._AC_UY218_.jpg",
+            "rating": null,
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Edge+ | 2023 | Unlocked | Made for US 8/512 | 50 MPCamera | Intersteller Black, 161.16x74x8.59",
+            "price": null,
+            "total_reviews": "675",
+            "image_url": "https://m.media-amazon.com/images/I/61eyXBlFk7L._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8 - Unlocked Android Smartphone with Advanced Pixel Camera, 24-Hour Battery, and Powerful Security - Obsidian - 128 GB",
+            "price": null,
+            "total_reviews": "3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/81Mya-dPIOL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus Nord N30 5G | Unlocked Dual-SIM Android Smart Phone | 6.7\" LCD Display | 8 +128GB | 5000 mAh Battery | 50W Fast Charging | 108MP Camera | Chromatic Gray",
+            "price": null,
+            "total_reviews": "1,079",
+            "image_url": "https://m.media-amazon.com/images/I/610qFsdenLL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A25 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Stereo Speakers, US Version, 2024, Black",
+            "price": null,
+            "total_reviews": "309",
+            "image_url": "https://m.media-amazon.com/images/I/61cwMOVn17L._AC_UY218_.jpg",
+            "rating": "3.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy S24 FE AI Phone, 128GB Unlocked Android Smartphone, High-Res 50MP Camera, Long Battery Life, Brighter Display Screen, US Version, 2024, US 1 Yr Manufacturer Warranty, Graphite",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61uakkLoHxL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola G85 5G 12GB 256GB | pOLED 120 Hz | 50MP | 5000mah Battery Unlocked Phone (International Version) - Urban Grey",
+            "price": "$245.00",
+            "total_reviews": "100",
+            "image_url": "https://m.media-amazon.com/images/I/71IZFZGzOzL._AC_UY218_.jpg",
+            "rating": "4.4 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8a - Unlocked Android Phone with Google AI, Advanced Pixel Camera and 24-Hour Battery - Bay - 128 GB",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71XOyJfGIzL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus 12,12GB RAM+256GB,Dual-SIM,Unlocked Android Smartphone,Supports Fastest 50W Wireless Charging,with The Latest Mobile Processor,Advanced Hasselblad Camera,5400 mAh Battery,2024,Silky Black",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71NW2QaIzlL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:39.740524",
+            "update_timestamp": "2024-12-06T18:26:39.740524",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Samsung Galaxy S24 Ultra Cell Phone, 256GB AI Smartphone, Unlocked Android, 200MP, 100x Zoom Cameras, Fast Processor, Long Battery Life, Edge-to-Edge Display, S Pen, US Version, 2024, Titanium Black",
+            "price": null,
+            "total_reviews": "3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Play | 2024 | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue",
+            "price": null,
+            "total_reviews": "1,589",
+            "image_url": "https://m.media-amazon.com/images/I/61xk4XNRktL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Power 5G | 2024 | Unlocked | Made for US 8/128GB | 50MP Camera | Midnight Blue",
+            "price": null,
+            "total_reviews": "1,074",
+            "image_url": "https://m.media-amazon.com/images/I/61c9OZyq2yL._AC_UY218_.jpg",
+            "rating": "4.1 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A15 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Expandable Storage, Knox Security, Super Fast Charging, US Version, 2024, Blue Black",
+            "price": null,
+            "total_reviews": "921",
+            "image_url": "https://m.media-amazon.com/images/I/41vU1u8DZXL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "C24 | 2024 | All-Day Battery | GSM Unlocked | 5.5” Display | 2/16GB | 2300mAh | US Version | US Warranty | White",
+            "price": "$39.99",
+            "total_reviews": "5",
+            "image_url": "https://m.media-amazon.com/images/I/515cfOcCNyL._AC_UY218_.jpg",
+            "rating": "2.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola razr | 2023 | Unlocked | Made for US 8/128 | 32MP Camera | Sage Green, 73.95 x 170.82 x 7.35mm",
+            "price": null,
+            "total_reviews": "651",
+            "image_url": "https://m.media-amazon.com/images/I/61y8ZqM0vvL._AC_UY218_.jpg",
+            "rating": "3.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Moto G Stylus 5G | 2023 | Unlocked | Made for US 6/256GB | 50 MPCamera | Cosmic Black, 162.83x73.77x9.29",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61O66kJiiGL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "PG65 | 2024 | All-Day Battery | GSM Unlocked | 6.5” Display | 4/64GB | 3000mAh | US Version | US Warranty | Black",
+            "price": "$59.99",
+            "total_reviews": null,
+            "image_url": "https://m.media-amazon.com/images/I/71tSG64ezSL._AC_UY218_.jpg",
+            "rating": null,
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Edge+ | 2023 | Unlocked | Made for US 8/512 | 50 MPCamera | Intersteller Black, 161.16x74x8.59",
+            "price": null,
+            "total_reviews": "675",
+            "image_url": "https://m.media-amazon.com/images/I/61eyXBlFk7L._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8 - Unlocked Android Smartphone with Advanced Pixel Camera, 24-Hour Battery, and Powerful Security - Obsidian - 128 GB",
+            "price": null,
+            "total_reviews": "3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/81Mya-dPIOL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus Nord N30 5G | Unlocked Dual-SIM Android Smart Phone | 6.7\" LCD Display | 8 +128GB | 5000 mAh Battery | 50W Fast Charging | 108MP Camera | Chromatic Gray",
+            "price": null,
+            "total_reviews": "1,079",
+            "image_url": "https://m.media-amazon.com/images/I/610qFsdenLL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A25 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Stereo Speakers, US Version, 2024, Black",
+            "price": null,
+            "total_reviews": "309",
+            "image_url": "https://m.media-amazon.com/images/I/61cwMOVn17L._AC_UY218_.jpg",
+            "rating": "3.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy S24 FE AI Phone, 128GB Unlocked Android Smartphone, High-Res 50MP Camera, Long Battery Life, Brighter Display Screen, US Version, 2024, US 1 Yr Manufacturer Warranty, Graphite",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61uakkLoHxL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola G85 5G 12GB 256GB | pOLED 120 Hz | 50MP | 5000mah Battery Unlocked Phone (International Version) - Urban Grey",
+            "price": "$245.00",
+            "total_reviews": "100",
+            "image_url": "https://m.media-amazon.com/images/I/71IZFZGzOzL._AC_UY218_.jpg",
+            "rating": "4.4 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8a - Unlocked Android Phone with Google AI, Advanced Pixel Camera and 24-Hour Battery - Bay - 128 GB",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71XOyJfGIzL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus 12,12GB RAM+256GB,Dual-SIM,Unlocked Android Smartphone,Supports Fastest 50W Wireless Charging,with The Latest Mobile Processor,Advanced Hasselblad Camera,5400 mAh Battery,2024,Silky Black",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71NW2QaIzlL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:26:59.118213",
+            "update_timestamp": "2024-12-06T18:26:59.118213",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Samsung Galaxy S24 Ultra Cell Phone, 256GB AI Smartphone, Unlocked Android, 200MP, 100x Zoom Cameras, Fast Processor, Long Battery Life, Edge-to-Edge Display, S Pen, US Version, 2024, Titanium Black",
+            "price": null,
+            "total_reviews": "3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Play | 2024 | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue",
+            "price": null,
+            "total_reviews": "1,589",
+            "image_url": "https://m.media-amazon.com/images/I/61xk4XNRktL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Power 5G | 2024 | Unlocked | Made for US 8/128GB | 50MP Camera | Midnight Blue",
+            "price": null,
+            "total_reviews": "1,074",
+            "image_url": "https://m.media-amazon.com/images/I/61c9OZyq2yL._AC_UY218_.jpg",
+            "rating": "4.1 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A15 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Expandable Storage, Knox Security, Super Fast Charging, US Version, 2024, Blue Black",
+            "price": null,
+            "total_reviews": "921",
+            "image_url": "https://m.media-amazon.com/images/I/41vU1u8DZXL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "C24 | 2024 | All-Day Battery | GSM Unlocked | 5.5” Display | 2/16GB | 2300mAh | US Version | US Warranty | White",
+            "price": "$39.99",
+            "total_reviews": "5",
+            "image_url": "https://m.media-amazon.com/images/I/515cfOcCNyL._AC_UY218_.jpg",
+            "rating": "2.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola razr | 2023 | Unlocked | Made for US 8/128 | 32MP Camera | Sage Green, 73.95 x 170.82 x 7.35mm",
+            "price": null,
+            "total_reviews": "651",
+            "image_url": "https://m.media-amazon.com/images/I/61y8ZqM0vvL._AC_UY218_.jpg",
+            "rating": "3.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Moto G Stylus 5G | 2023 | Unlocked | Made for US 6/256GB | 50 MPCamera | Cosmic Black, 162.83x73.77x9.29",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61O66kJiiGL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "PG65 | 2024 | All-Day Battery | GSM Unlocked | 6.5” Display | 4/64GB | 3000mAh | US Version | US Warranty | Black",
+            "price": "$59.99",
+            "total_reviews": null,
+            "image_url": "https://m.media-amazon.com/images/I/71tSG64ezSL._AC_UY218_.jpg",
+            "rating": null,
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Edge+ | 2023 | Unlocked | Made for US 8/512 | 50 MPCamera | Intersteller Black, 161.16x74x8.59",
+            "price": null,
+            "total_reviews": "675",
+            "image_url": "https://m.media-amazon.com/images/I/61eyXBlFk7L._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8 - Unlocked Android Smartphone with Advanced Pixel Camera, 24-Hour Battery, and Powerful Security - Obsidian - 128 GB",
+            "price": null,
+            "total_reviews": "3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/81Mya-dPIOL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus Nord N30 5G | Unlocked Dual-SIM Android Smart Phone | 6.7\" LCD Display | 8 +128GB | 5000 mAh Battery | 50W Fast Charging | 108MP Camera | Chromatic Gray",
+            "price": null,
+            "total_reviews": "1,079",
+            "image_url": "https://m.media-amazon.com/images/I/610qFsdenLL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A25 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Stereo Speakers, US Version, 2024, Black",
+            "price": null,
+            "total_reviews": "309",
+            "image_url": "https://m.media-amazon.com/images/I/61cwMOVn17L._AC_UY218_.jpg",
+            "rating": "3.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy S24 FE AI Phone, 128GB Unlocked Android Smartphone, High-Res 50MP Camera, Long Battery Life, Brighter Display Screen, US Version, 2024, US 1 Yr Manufacturer Warranty, Graphite",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61uakkLoHxL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola G85 5G 12GB 256GB | pOLED 120 Hz | 50MP | 5000mah Battery Unlocked Phone (International Version) - Urban Grey",
+            "price": "$245.00",
+            "total_reviews": "100",
+            "image_url": "https://m.media-amazon.com/images/I/71IZFZGzOzL._AC_UY218_.jpg",
+            "rating": "4.4 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8a - Unlocked Android Phone with Google AI, Advanced Pixel Camera and 24-Hour Battery - Bay - 128 GB",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71XOyJfGIzL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus 12,12GB RAM+256GB,Dual-SIM,Unlocked Android Smartphone,Supports Fastest 50W Wireless Charging,with The Latest Mobile Processor,Advanced Hasselblad Camera,5400 mAh Battery,2024,Silky Black",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71NW2QaIzlL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:16.168279",
+            "update_timestamp": "2024-12-06T18:27:16.168279",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Samsung Galaxy S24 Ultra Cell Phone, 256GB AI Smartphone, Unlocked Android, 200MP, 100x Zoom Cameras, Fast Processor, Long Battery Life, Edge-to-Edge Display, S Pen, US Version, 2024, Titanium Black",
+            "price": null,
+            "total_reviews": "3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Play | 2024 | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue",
+            "price": null,
+            "total_reviews": "1,589",
+            "image_url": "https://m.media-amazon.com/images/I/61xk4XNRktL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Power 5G | 2024 | Unlocked | Made for US 8/128GB | 50MP Camera | Midnight Blue",
+            "price": null,
+            "total_reviews": "1,074",
+            "image_url": "https://m.media-amazon.com/images/I/61c9OZyq2yL._AC_UY218_.jpg",
+            "rating": "4.1 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A15 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Expandable Storage, Knox Security, Super Fast Charging, US Version, 2024, Blue Black",
+            "price": null,
+            "total_reviews": "921",
+            "image_url": "https://m.media-amazon.com/images/I/41vU1u8DZXL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "C24 | 2024 | All-Day Battery | GSM Unlocked | 5.5” Display | 2/16GB | 2300mAh | US Version | US Warranty | White",
+            "price": "$39.99",
+            "total_reviews": "5",
+            "image_url": "https://m.media-amazon.com/images/I/515cfOcCNyL._AC_UY218_.jpg",
+            "rating": "2.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola razr | 2023 | Unlocked | Made for US 8/128 | 32MP Camera | Sage Green, 73.95 x 170.82 x 7.35mm",
+            "price": null,
+            "total_reviews": "651",
+            "image_url": "https://m.media-amazon.com/images/I/61y8ZqM0vvL._AC_UY218_.jpg",
+            "rating": "3.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Moto G Stylus 5G | 2023 | Unlocked | Made for US 6/256GB | 50 MPCamera | Cosmic Black, 162.83x73.77x9.29",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61O66kJiiGL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "PG65 | 2024 | All-Day Battery | GSM Unlocked | 6.5” Display | 4/64GB | 3000mAh | US Version | US Warranty | Black",
+            "price": "$59.99",
+            "total_reviews": null,
+            "image_url": "https://m.media-amazon.com/images/I/71tSG64ezSL._AC_UY218_.jpg",
+            "rating": null,
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Edge+ | 2023 | Unlocked | Made for US 8/512 | 50 MPCamera | Intersteller Black, 161.16x74x8.59",
+            "price": null,
+            "total_reviews": "675",
+            "image_url": "https://m.media-amazon.com/images/I/61eyXBlFk7L._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8 - Unlocked Android Smartphone with Advanced Pixel Camera, 24-Hour Battery, and Powerful Security - Obsidian - 128 GB",
+            "price": null,
+            "total_reviews": "3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/81Mya-dPIOL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus Nord N30 5G | Unlocked Dual-SIM Android Smart Phone | 6.7\" LCD Display | 8 +128GB | 5000 mAh Battery | 50W Fast Charging | 108MP Camera | Chromatic Gray",
+            "price": null,
+            "total_reviews": "1,079",
+            "image_url": "https://m.media-amazon.com/images/I/610qFsdenLL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A25 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Stereo Speakers, US Version, 2024, Black",
+            "price": null,
+            "total_reviews": "309",
+            "image_url": "https://m.media-amazon.com/images/I/61cwMOVn17L._AC_UY218_.jpg",
+            "rating": "3.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy S24 FE AI Phone, 128GB Unlocked Android Smartphone, High-Res 50MP Camera, Long Battery Life, Brighter Display Screen, US Version, 2024, US 1 Yr Manufacturer Warranty, Graphite",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61uakkLoHxL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola G85 5G 12GB 256GB | pOLED 120 Hz | 50MP | 5000mah Battery Unlocked Phone (International Version) - Urban Grey",
+            "price": "$245.00",
+            "total_reviews": "100",
+            "image_url": "https://m.media-amazon.com/images/I/71IZFZGzOzL._AC_UY218_.jpg",
+            "rating": "4.4 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8a - Unlocked Android Phone with Google AI, Advanced Pixel Camera and 24-Hour Battery - Bay - 128 GB",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71XOyJfGIzL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus 12,12GB RAM+256GB,Dual-SIM,Unlocked Android Smartphone,Supports Fastest 50W Wireless Charging,with The Latest Mobile Processor,Advanced Hasselblad Camera,5400 mAh Battery,2024,Silky Black",
+            "price": null,
+            "total_reviews": "2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71NW2QaIzlL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:34.813113",
+            "update_timestamp": "2024-12-06T18:27:34.813113",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Samsung Galaxy S24 Ultra Cell Phone, 256GB AI Smartphone, Unlocked Android, 200MP, 100x Zoom Cameras, Fast Processor, Long Battery Life, Edge-to-Edge Display, S Pen, US Version, 2024, Titanium Black",
+            "price": null,
+            "total_reviews": "3 sizes3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Play | 2024 | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue",
+            "price": null,
+            "total_reviews": "1,589",
+            "image_url": "https://m.media-amazon.com/images/I/61xk4XNRktL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Moto G Power 5G | 2024 | Unlocked | Made for US 8/128GB | 50MP Camera | Midnight Blue",
+            "price": null,
+            "total_reviews": "1,074",
+            "image_url": "https://m.media-amazon.com/images/I/61c9OZyq2yL._AC_UY218_.jpg",
+            "rating": "4.1 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A15 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Expandable Storage, Knox Security, Super Fast Charging, US Version, 2024, Blue Black",
+            "price": null,
+            "total_reviews": "921",
+            "image_url": "https://m.media-amazon.com/images/I/41vU1u8DZXL._AC_UY218_.jpg",
+            "rating": "4.0 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "C24 | 2024 | All-Day Battery | GSM Unlocked | 5.5” Display | 2/16GB | 2300mAh | US Version | US Warranty | White",
+            "price": "$39.99",
+            "total_reviews": "5",
+            "image_url": "https://m.media-amazon.com/images/I/515cfOcCNyL._AC_UY218_.jpg",
+            "rating": "2.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola razr | 2023 | Unlocked | Made for US 8/128 | 32MP Camera | Sage Green, 73.95 x 170.82 x 7.35mm",
+            "price": null,
+            "total_reviews": "651",
+            "image_url": "https://m.media-amazon.com/images/I/61y8ZqM0vvL._AC_UY218_.jpg",
+            "rating": "3.9 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Moto G Stylus 5G | 2023 | Unlocked | Made for US 6/256GB | 50 MPCamera | Cosmic Black, 162.83x73.77x9.29",
+            "price": null,
+            "total_reviews": "2 sizes2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61O66kJiiGL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "PG65 | 2024 | All-Day Battery | GSM Unlocked | 6.5” Display | 4/64GB | 3000mAh | US Version | US Warranty | Black",
+            "price": "$59.99",
+            "total_reviews": null,
+            "image_url": "https://m.media-amazon.com/images/I/71tSG64ezSL._AC_UY218_.jpg",
+            "rating": null,
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola Edge+ | 2023 | Unlocked | Made for US 8/512 | 50 MPCamera | Intersteller Black, 161.16x74x8.59",
+            "price": null,
+            "total_reviews": "675",
+            "image_url": "https://m.media-amazon.com/images/I/61eyXBlFk7L._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8 - Unlocked Android Smartphone with Advanced Pixel Camera, 24-Hour Battery, and Powerful Security - Obsidian - 128 GB",
+            "price": null,
+            "total_reviews": "3 sizes3 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/81Mya-dPIOL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus Nord N30 5G | Unlocked Dual-SIM Android Smart Phone | 6.7\" LCD Display | 8 +128GB | 5000 mAh Battery | 50W Fast Charging | 108MP Camera | Chromatic Gray",
+            "price": null,
+            "total_reviews": "1,079",
+            "image_url": "https://m.media-amazon.com/images/I/610qFsdenLL._AC_UY218_.jpg",
+            "rating": "4.3 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy A25 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Stereo Speakers, US Version, 2024, Black",
+            "price": null,
+            "total_reviews": "309",
+            "image_url": "https://m.media-amazon.com/images/I/61cwMOVn17L._AC_UY218_.jpg",
+            "rating": "3.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "SAMSUNG Galaxy S24 FE AI Phone, 128GB Unlocked Android Smartphone, High-Res 50MP Camera, Long Battery Life, Brighter Display Screen, US Version, 2024, US 1 Yr Manufacturer Warranty, Graphite",
+            "price": null,
+            "total_reviews": "2 sizes2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/61uakkLoHxL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Motorola G85 5G 12GB 256GB | pOLED 120 Hz | 50MP | 5000mah Battery Unlocked Phone (International Version) - Urban Grey",
+            "price": "$245.00",
+            "total_reviews": "100",
+            "image_url": "https://m.media-amazon.com/images/I/71IZFZGzOzL._AC_UY218_.jpg",
+            "rating": "4.4 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "Google Pixel 8a - Unlocked Android Phone with Google AI, Advanced Pixel Camera and 24-Hour Battery - Bay - 128 GB",
+            "price": null,
+            "total_reviews": "2 sizes2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71XOyJfGIzL._AC_UY218_.jpg",
+            "rating": "4.2 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        },
+        {
+            "title": "OnePlus 12,12GB RAM+256GB,Dual-SIM,Unlocked Android Smartphone,Supports Fastest 50W Wireless Charging,with The Latest Mobile Processor,Advanced Hasselblad Camera,5400 mAh Battery,2024,Silky Black",
+            "price": null,
+            "total_reviews": "2 sizes2 sizes",
+            "image_url": "https://m.media-amazon.com/images/I/71NW2QaIzlL._AC_UY218_.jpg",
+            "rating": "4.5 out of 5 stars",
+            "creation_timestamp": "2024-12-06T18:27:48.118095",
+            "update_timestamp": "2024-12-06T18:27:48.118095",
+            "scrape_date": "2024-12-06"
+        }
+    ]
+}
